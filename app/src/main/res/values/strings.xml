@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrabajoConstrainLayout</string>
+    <string name="btnCargarImagen">Seleccione una imagen</string>
+    <string name="textView1">Imagenes</string>
+    <string name="imageView">Imagen cargada</string>
+
+</resources>
